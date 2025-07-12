@@ -10,12 +10,12 @@
 
 ## Nos aparece Open notebook, seleccionamos Upload y tocamos Browse
 
-## Buscamos en la carpeta que clonamos el archivo: simulacion.ipynb
+## Buscamos, en la carpeta que clonamos, el archivo: simulacion.ipynb
 
 ## Tocamos Abrir
 
 ## Una vez abierto, damos click donde dice: Run All
 
-## Ya tendría que estar levantada la simulacion
+## Ya tendría que estar levantada la simulación
 
 ## Debajo de todo aparece para seleccionar los parámetros y tocar Run para que se corra la simulación
